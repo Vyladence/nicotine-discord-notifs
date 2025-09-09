@@ -1,0 +1,4 @@
+Version = "0.1"
+Authors = ["Vyladence"]
+Name = "Discord Notifications"
+Description = "Forwards notifications such as messages to a Discord webhook"
